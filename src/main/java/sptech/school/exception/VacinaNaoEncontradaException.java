@@ -1,4 +1,4 @@
-package school.sptech.exception;
+package sptech.school.exception;
 
 public class VacinaNaoEncontradaException extends RuntimeException {
 

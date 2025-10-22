@@ -1,9 +1,9 @@
-package school.sptech.estrutura;
+package sptech.school.estrutura;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import school.sptech.Laboratorio;
-import school.sptech.Vacina;
+import sptech.school.Laboratorio;
+import sptech.school.Vacina;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
